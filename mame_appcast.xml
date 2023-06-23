@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version='2.0' xmlns:sparkle='http://www.andymatuschak.org/xml-namespaces/sparkle' xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <channel>
+    <title>MAME</title>
+    <link>https://raw.github.com/OpenEmu/OpenEmu-Update/master/mame_appcast.xml</link>
+    <description>Most recent changes with links to updates.</description>
+    <language>en</language>
+    <item>
+      <title>MAME Version 0.217</title>
+      <sparkle:releaseNotesLink>
+        http://openemu.org/category/releasenotes/mame/MAME_0.217.html
+      </sparkle:releaseNotesLink>
+      <pubDate>Thu, 15 Dec 2022 19:32:53 -0500</pubDate>
+      <enclosure
+        url="https://github.com/OpenEmu/UME-Core/releases/download/v0.217/MAME_0.217.zip"
+        sparkle:version="0.217"
+        type="application/octet-stream"
+        length="65243102"
+      />
+      <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+    </item>
+  </channel>
+</rss>
