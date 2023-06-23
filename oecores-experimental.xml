@@ -148,7 +148,7 @@
   <core
     id="org.openemu.mame"
     name="MAME"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/mame_appcast.xml">
+    appcastURL="https://github.com/gongxun0928/openemu-config/blob/main/mame_appcast.xml">
 
     <description>MAME emulator</description>
     <systems>

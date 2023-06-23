@@ -15,7 +15,7 @@
         url="https://github.com/OpenEmu/UME-Core/releases/download/v0.217/MAME_0.217.zip"
         sparkle:version="0.217"
         type="application/octet-stream"
-        length="65243102"
+        length="60371350"
       />
       <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
     </item>
